@@ -1,0 +1,162 @@
+body{
+    text-align: center;
+    font-family: Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif; 
+    background-color: #ffffff;
+
+}
+hr{
+    border: dotted rgb(94, 56, 6) 5px;
+    border-bottom: none;
+    width: 25%;
+}
+.top{
+    background-color: #F5E8C7;
+    width: 100%;
+  
+    padding-top: 100px;
+    position: relative;
+
+}
+h1{
+    font-family: 'Sacramento', cursive;
+    color: #98632f;
+    
+}
+h2{
+    color: #98632f;
+}
+h3{
+    color: #5c3f23;
+}
+#cloud-down{
+    position:absolute;
+}
+#top-cloud{
+    position: absolute;
+    right: 350px;
+    top: 50px;
+}
+p{
+    font-family: 'Raleway', sans-serif;
+}
+    
+#my-image{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+}
+
+.middle-container{
+    position: relative;
+}
+#header {
+    position: sticky;
+    top: 0;
+    width: 100%;
+    height: 50px;
+    background-color: #794d21;
+    color: #fff;
+    padding-bottom: 5px;
+    margin: 500px 500px 0 auto;
+    right: 1px;
+    z-index: 999;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    margin-top: 5px;
+    font-family: 'Sacramento', cursive;
+  }
+#header-name{
+    color: #F5E8C7;
+    font-family: 'MuseoModerno', cursive;
+}
+  
+.header-insta{
+    width: 60px;
+    height: 35px;
+    position: absolute;
+    right: 200px;
+    top:5.5px;
+}
+.header-twitter{
+    position: absolute;
+    right: 10px;
+    top:3.7px;
+    width: 40px;
+    height: 40px;
+    right: 150px;
+}
+#twitter{
+    right: 150px;
+}
+#toph2{
+    font-size: 1.8rem;
+    position: relative;
+    top: 20px;
+}
+
+#toph1{
+    font-size: 4rem;
+}
+
+.vertical{
+    rotate: 90deg;
+    width: 5%;
+    position: relative;
+    bottom: 5px;
+}
+a{
+    color: #98632f;
+}
+.skill-row1{
+    width: 70%;
+    margin: 0 auto 0 auto ;
+    text-align: left;
+}
+table {
+    line-height: 2;
+    width: 700px;
+    margin-left: 300px;
+  }
+  
+#bicon{
+    float: left;
+    width: 20%;
+    position: relative;
+    bottom: 20px;
+}
+#davinci{
+    float: right;
+    width: 27%;
+    position: relative;
+    bottom: 10px;
+}
+
+.skill-row2{
+    width: 70%;
+    margin: 0 auto 0 auto ;
+    text-align: right;
+} 
+#csgo{
+    float: left;
+    width: 20%;
+    border-radius: 100%;
+    margin-right: 10px;
+    position: relative;
+    bottom: 10px;
+}
+.contact-me,.bottom-container{
+    background-color: #F5E8C7;
+    padding-top: 0px;
+}
+#bottom-intouch{
+    margin-top: 0px;
+}
+#mountain{
+    position: relative;
+    right: 50px;
+    top: 5px;
+    width: 1000px;
+}
+
+
